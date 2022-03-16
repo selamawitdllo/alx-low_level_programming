@@ -20,7 +20,7 @@ void print_putc(void)
  *
  *	Return: 0 if success, o otherwise
  */
-int main(void)
+int main0(void)
 {
 	print_putc();
 	return (0);
