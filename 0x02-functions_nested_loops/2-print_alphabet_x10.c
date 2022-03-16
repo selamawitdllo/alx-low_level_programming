@@ -2,10 +2,9 @@
 #include <stdio.h>
 
 /**
- *	alphabet -more times of alphabet,alphabet
+ *	print_alphabet_x10 - print o to z
  *
- *	Description: print_alphabet_x10 the code with more times print
- *	alphabetics order
+ *	Description: the alphabet of english print_alphabet method
  */
 void print_alphabet_x10(void)
 {
