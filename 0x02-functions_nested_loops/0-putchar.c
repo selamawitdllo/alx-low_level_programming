@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 
-/* extern void print_putc(); */
+extern void print_putc();
 
 int main(void)
 {
