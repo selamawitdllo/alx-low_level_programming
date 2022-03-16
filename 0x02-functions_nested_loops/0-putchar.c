@@ -1,13 +1,17 @@
 #include "main.h"
 #include <stdio.h>
 
-/* This is a function that prints a statemtnt */
+/**
+ * Description: This is a function that prints a statemtnt 
+ */
 void print_putc(void)
 {
 	printf("%s\n", "_putchar");
 }
 
-/* main function */
+/** 
+ * Description: main function 
+ */
 int main(void)
 {
 	print_putc();
