@@ -2,16 +2,15 @@
 #include <stdio.h>
 
 /**
- *	alphabet -10 times of alphabet,alphabet order
- *	Description:the code with 10 times print
- *	alphabetics order
+ *	alphabet -more times of alphabet,alphabet
  *
+ *	Description: the code with more times print
+ *	alphabetics order
  */
-int _print_alphabetx10()
+void _print_alphabetx10(void)
 {
-printf("%s\n","abcdefghijklmnopqrstuvwxyz")
+	for (int i=0;i<10;i++)
+{
+	printf("%s\n", "abcdefghijklmnopqrstuvwxyz");
 }
-int main (void)
-{
-print_alphabet_x10();
-return (0);
+}
