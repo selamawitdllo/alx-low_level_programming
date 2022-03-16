@@ -5,6 +5,7 @@
  *	print_alphabet_x10 - print o to z
  *
  *	Description: the alphabet of english print_alphabet method
+ *
  */
 void print_alphabet_x10(void)
 {
