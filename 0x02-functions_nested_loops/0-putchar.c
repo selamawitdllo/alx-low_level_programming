@@ -1,7 +1,8 @@
 #include "main.h"
 #include <stdio.h>
 
-void print_putc(){
+void print_putc(void)
+{	
         printf("%s","_putchar");
 }
 
