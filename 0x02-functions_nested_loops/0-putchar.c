@@ -1,9 +1,12 @@
 #include "main.h"
 #include <stdio.h>
 
+/*
+ * This is a function that prints a statemtnt
+ */
 void print_putc(void)
 {	
-        printf("%s","_putchar");
+        printf("%s\n","_putchar");
 }
 
 int main(void)
