@@ -3,7 +3,7 @@
 
 
 void print_alphabet(void){
- printf("%s","abcdefghijklmnopqrstuvwxyz");	
+ printf("%s\n","abcdefghijklmnopqrstuvwxyz");	
 
 }
 
