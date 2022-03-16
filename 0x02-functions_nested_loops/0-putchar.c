@@ -15,6 +15,8 @@ void print_putc(void)
  *	main function - Main entry point
  *
  *	Description: main function
+ *
+ *	Return: 0 if success, o otherwise
  */
 int main(void)
 {
