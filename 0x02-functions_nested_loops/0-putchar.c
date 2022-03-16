@@ -5,12 +5,12 @@
  * This is a function that prints a statemtnt
  */
 void print_putc(void)
-{	
-        printf("%s\n","_putchar");
+{
+	printf("%s\n", "_putchar");
 }
 
 int main(void)
 {
 	print_putc();
-	return 0;
+	return (0);
 }
