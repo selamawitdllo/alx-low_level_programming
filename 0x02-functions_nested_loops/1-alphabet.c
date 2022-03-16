@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 
-void print_alphabet(void){
- printf("%s\n","abcdefghijklmnopqrstuvwxyz");	
-
+void print_alphabet(void)
+{
+	printf("%s\n", "abcdefghijklmnopqrstuvwxyz");
 }
 
 
