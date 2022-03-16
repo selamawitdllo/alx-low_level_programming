@@ -7,7 +7,7 @@
  *	Description: the code with more times print
  *	alphabetics order
  */
-void _print_alphabetx10(void)
+void print_alphabet_x10(void)
 {
 	for (int i=0;i<10;i++)
 {
