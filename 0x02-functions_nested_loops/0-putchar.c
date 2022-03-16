@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- *	void print_putc - Prints _putchar
+ *	print_putc - Prints _putchar
  *
  *	Description: This is a function that prints a statemtnt
  *	and ends
@@ -13,7 +13,7 @@ void print_putc(void)
 }
 
 /**
- *	main function - Main entry point
+ *	main - Main entry point
  *
  *	Description: main function
  *	and ends
