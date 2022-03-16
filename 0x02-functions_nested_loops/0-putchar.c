@@ -1,15 +1,27 @@
 #include "main.h"
+#include <stdio.h>
+
 /**
- * main -entry block
- * avoide:no argument
- * return
- * */
-int main(void)
-	char selam[]="_putchar";
-	int k;
-	for (k=0; c<8; c++)
+ *	print_putc - Prints _putchar
+ *
+ *	Description: This is a function that prints a statemtnt
+ *	and ends
+ */
+void print_putc(void)
 {
-	_putchar(selam[k]);
+	printf("%s\n", "_putchar");
 }
-_putchar("\n);
-return (0);
+
+/**
+ *	main - Main entry point
+ *
+ *	Description: main function
+ *	and ends
+ *
+ *	Return: 0 if success, o otherwise
+ */
+int main(void)
+{
+	print_putc();
+	return (0);
+}
