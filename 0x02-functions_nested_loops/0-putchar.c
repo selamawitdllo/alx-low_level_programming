@@ -11,7 +11,7 @@ void print_putc(void)
 	printf("%s\n", "_putchar");
 }
 
-/** 
+/**
  *	main function - Main entry point
  *
  *	Description: main function
