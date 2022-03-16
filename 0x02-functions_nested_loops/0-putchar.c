@@ -5,6 +5,7 @@
  *	void print_putc - Prints _putchar
  *
  *	Description: This is a function that prints a statemtnt
+ *	and ends
  */
 void print_putc(void)
 {
@@ -15,6 +16,7 @@ void print_putc(void)
  *	main function - Main entry point
  *
  *	Description: main function
+ *	and ends
  *
  *	Return: 0 if success, o otherwise
  */
