@@ -12,9 +12,11 @@
  */
 int main(void)
 {
-	int n=0;
-	for(n = 'a'; n <= 'z'; n++)
+	int n = 0;
+
+	for (n = 'a'; n <= 'z'; n++)
 		putchar(n);
-	putchar('\0');	
+
+	putchar('\n');
 	return (0);
 }
