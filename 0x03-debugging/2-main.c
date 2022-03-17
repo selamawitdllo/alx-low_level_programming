@@ -8,6 +8,7 @@
 */
 
 int main(void)
+
 {
         int a, b, c;
         int largest;
@@ -20,5 +21,7 @@ int main(void)
 
         printf("%d is the largest number\n", largest);
 
-        return (0);
+        
+	return (0);
+
 }
