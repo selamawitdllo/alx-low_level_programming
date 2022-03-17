@@ -25,7 +25,7 @@ int main(void)
 	}
 	else if (ld == 0)
 	{
-		printf("and is zero");
+		printf("and is 0\n");
 	}
 	else if (ld < 6)
 	{
