@@ -9,14 +9,14 @@
  */
 int main(void)
 {
-	int i;
-	if(i >= 0)
-{
+	int i=0;
+	if (i >= 0)
+	{
 	printf("%s\n","positive");
-}
+	}	
 	else
-{
-	printf("%s\n","negative")
-}
+	{
+	printf("%s\n","negative");
+	}
 	return (0);
 }
