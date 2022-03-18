@@ -12,7 +12,6 @@
  */
 
 int largest_number(int a ,int b ,int c);
-
 {
 	int largest;
 
@@ -28,6 +27,7 @@ int largest_number(int a ,int b ,int c);
 	{
 	largest = c;
 	}
-	printf("%d is the largest number\n",largest);
+	printf("%d\n",largest)
 	return (0);
+
 }

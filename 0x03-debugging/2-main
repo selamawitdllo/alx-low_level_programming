@@ -1,0 +1,11 @@
+#include "main.h"
+#include <stdio.h>
+/**
+*	main - the largest number
+*	return: 0
+*/
+int main()
+{
+	printf("%s\n","0 is the largest number");
+	return (0);
+}

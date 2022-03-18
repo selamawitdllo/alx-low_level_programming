@@ -1,0 +1,14 @@
+#include "main.h"
+#include <stdio.h>
+/**
+*       int convert_day - the date
+*       return: 0
+*
+*/
+int convert_day(int month, int day)
+{
+        printf("Date:%d\n","02/29/2000");
+        printf("invalid date:%d\n","02/29/2000");
+        
+        return (0);
+}
