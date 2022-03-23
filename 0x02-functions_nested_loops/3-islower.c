@@ -9,8 +9,8 @@
 int _islower(int c)
 {	
 	
-	if(c==islower)
-	return (1);
+	if (c=islower)
+	printf ("1");
 }
 int main()
 {

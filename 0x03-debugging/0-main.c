@@ -9,14 +9,8 @@
  */
 int main(void)
 {
-	int i=0;
-	if (i >= 0)
-	{
-	printf("%s\n","positive");
-	}	
-	else
-	{
-	printf("%s\n","negative");
-	}
+	int i;
+	i = 0;
+	positive_or_negative(i);
 	return (0);
 }

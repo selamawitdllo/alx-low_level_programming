@@ -1,0 +1,11 @@
+#include "main.h"
+#iclude <stdio.h>
+/**
+*	int _islower - check the code
+*	
+*	return: always zero
+*/
+int _islower(void)
+{
+	printf("011");
+}

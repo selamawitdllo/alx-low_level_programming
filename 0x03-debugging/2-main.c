@@ -16,6 +16,8 @@ int main(void)
         a = 972;
         b = -98;
         c = 0;
+if(a > b)
+{
 
         largest = largest_number(a, b, c);
 
