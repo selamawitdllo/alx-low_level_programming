@@ -1,0 +1,16 @@
+#include "main.h"
+#include <stdio.h>
+
+/*
+*	main - check the code
+*
+*	return: Always 0
+*
+*/
+int main()
+{
+	char f;
+	f="i do not fear computers. i fear the lack of them - isaac Asimov";
+	put(f);
+return (0);
+}
