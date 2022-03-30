@@ -5,13 +5,9 @@
 *	return: always 0
 *
 */
-int main()
-{
-char *str;
-int len;
-
-}
 int _strlen(char *s)
 {
-
+	char str="my first strlen!";
+	printf("%d\n",strlen(str));
+	return (0);
 }
